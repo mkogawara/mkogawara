@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=weclome!🎐&animation=twinkling&type=venom&color=gradient&theme=tokyonnight&height=100&fontColor=eb34c0"/>
+  <img src="https://capsule-render.vercel.app/api?text=weclome!🎐&animation=twinkling&type=speech&color=gradient&theme=tokyonnight&height=100&fontColor=eb34c0"/>
 </p>
