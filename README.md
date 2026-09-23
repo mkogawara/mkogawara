@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=weclome!🎐&animation=fadeIn&type=waving&color=gradient&customColorList=1,3,5
-    &height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=weclome!🎐&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
