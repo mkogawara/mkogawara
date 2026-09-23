@@ -1,4 +1,4 @@
-## Hi there 👋
+## welcome 2 my github 👋
 
 <!--
 **mkogawara/mkogawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
